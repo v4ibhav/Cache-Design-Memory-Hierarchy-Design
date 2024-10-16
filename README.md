@@ -1,13 +1,24 @@
 # Cache-Design-Memory-Hierarchy-Design
-	To run code with different cache configuration
-	step 1. make clean
-	step 2. make all
-		./sim 32 8192 4 262144 8 3 10 val-proj1-f22/gcc_trace.txt
-	The above numbers represent below configuration of cache
-		BLOCKSIZE
-		L1_SIZE
-		L1_ASSOC
-		L2_SIZE
-		L2_ASSOC
-		PREF_N
-		PREF_M
+
+## ⚠️ WARNING: DO NOT COPY OR REDISTRIBUTE THIS CODE
+
+This code is part of an academic submission and is monitored by the university's plagiarism detection system. Unauthorized copying, sharing, or distributing this code will result in academic misconduct and violation of the university's code of conduct.
+
+Any unauthorized use will be flagged by the plagiarism checker, potentially leading to disciplinary actions.
+
+© 2024 Vaibhav Sharma.
+
+---
+
+## Project Overview
+
+This project simulates a memory hierarchy design with configurable cache parameters, including L1 and L2 cache sizes, associativity, and a prefetcher. You can run the simulation with different configurations by following the steps below.
+
+## Running the Code with Different Cache Configurations
+
+### Step-by-Step Instructions
+
+1. **Clean the project (optional but recommended)**:
+   ```bash
+   make clean
+
