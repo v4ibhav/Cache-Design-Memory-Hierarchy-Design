@@ -21,7 +21,7 @@ This project simulates a memory hierarchy design with configurable cache paramet
    ```bash
    make clean
 
-2. **Compile the project **:
+2. **Compile the project**:
    ```bash
    make all
 
