@@ -6,8 +6,6 @@ This code is part of an academic submission and is monitored by the university's
 
 Any unauthorized use will be flagged by the plagiarism checker, potentially leading to disciplinary actions.
 
-© 2024 Vaibhav Sharma.
-
 
 ---
 
